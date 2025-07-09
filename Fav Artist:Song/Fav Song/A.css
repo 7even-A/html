@@ -1,0 +1,16 @@
+body{
+    background-image:url('https://i.makeagif.com/media/10-09-2024/aTLtMR.gif');
+     background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 75px;
+    @keyframes example {
+  from {color: blueviolet;}
+  to {color: yellow;}
+}
+}

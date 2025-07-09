@@ -1,0 +1,19 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/a3/81/5d/a3815d393a7c6d9e34b2480e8893be1d.gif');
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.img {
+    height: 300px;
+    width: 500px;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

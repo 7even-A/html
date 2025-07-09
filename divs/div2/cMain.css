@@ -1,0 +1,27 @@
+.c1 {
+    background-color:khaki;
+    height: 400px;
+    width: 450px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    p{
+        font-size: 20px;
+    }
+
+}
+
+.c2 {
+    background-color:darksalmon;
+    height: 400px;
+    width: 450px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    p{
+        font-size: 20px;
+    }
+
+}
+
+#flex {
+    display: flex;
+}

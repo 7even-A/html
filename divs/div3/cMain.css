@@ -1,0 +1,54 @@
+#d1 {
+    background-color: cadetblue;
+    font-family:monospace;
+    border: 2px solid black;
+margin: 20px;
+padding: 20px;
+
+
+}
+
+#d2 {
+    background-color: darksalmon;
+    font-family:monospace;
+    border: 2px solid black;
+    margin: 20px;
+padding: 20px;
+
+}
+
+#d2_5{
+    display: flex;
+    margin: 20px;
+padding: 20px;
+}
+
+#d3 {
+background-color:gainsboro;
+font-family:monospace;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+
+}
+
+#flexx {
+    display: flex;
+}
+
+#img {
+    width: 450px;
+    height: 300px;
+    margin: 20px;
+padding: 60px;
+}
+
+body{
+    background-color:peachpuff;
+}
+
+#h1{
+    text-align: center;
+}
+
+#p{font-size: 20px;}
